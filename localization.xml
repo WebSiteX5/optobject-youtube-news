@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebsiteX5LanguagesLibrary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Languages>
+<Language>
+      <Code><![CDATA[BG]]></Code>
+      <Name><![CDATA[Bulgarian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Добавете кутия с най-новите видеоклипове в Youtube</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Новини:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Top News видеоклипове</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[BR]]></Code>
+      <Name><![CDATA[Brasilian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Adicionar um box com seus últimos vídeos no Youtube</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Inglês Al-Jazeera</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Provedores de notícias:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Principais vídeos de notícias</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[CZ]]></Code>
+      <Name><![CDATA[Czech]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Přidat rámeček s nejnovějšími videi na Youtube</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Poskytovatelé zpráv:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Videa nejzajímavějších zpráv</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[DA]]></Code>
+      <Name><![CDATA[Dansk]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Tilføj en boks med de nyeste YouTube videoer</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Nyheds udbydere:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Top nyheder, Videoer</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[DE]]></Code>
+      <Name><![CDATA[German]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Fügen Sie eine Box mit den neuesten Youtube-Videos ein</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Nachrichtenquellen:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Top News Videos</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[EN]]></Code>
+      <Name><![CDATA[English]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Add a box with the latest Youtube videos</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>News Providers:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Top News Videos</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[ES]]></Code>
+      <Name><![CDATA[Spanish]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Añade un recuadro con los últimos vídeos de YouTube</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Proveedor de noticias:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Vídeos Top News</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[FR]]></Code>
+      <Name><![CDATA[French]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Ajouter un cadre avec les dernières vidéos Youtube</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Fournisseur de News :</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Vidéos Top des actualités</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[GR]]></Code>
+      <Name><![CDATA[Greek]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Προσθέστε ένα κουτί με τα τελευταία βίντεο του Youtube</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Πάροχοι Ειδήσεων:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Κορυφαία Βίντεο με Νέα</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[HU]]></Code>
+      <Name><![CDATA[Hungarian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Blokk hozzáadása a legújabb YouTube videókkal</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Hírszolgáltatók:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Legnézettebb hír videók</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[IT]]></Code>
+      <Name><![CDATA[Italian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Aggiunge un riquadro con gli ultimi video da YouTube</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Fonti Notizie:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Top News Videos</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[NL]]></Code>
+      <Name><![CDATA[Dutch]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Voeg een vak met de meest recente YouTube-video's toe</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Nieuwsaanbieders:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Meest bekeken nieuwsvideo's</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[PL]]></Code>
+      <Name><![CDATA[Polish]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Wstaw pole z najnowszymi filmami Youtube</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Najnowsze:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Najlepsze filmy</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[RU]]></Code>
+      <Name><![CDATA[Russian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Добавить окно с последними видео Youtube</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Английский Al-Jazeera</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Источники новостей:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Лучшие новостные видео</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[SK]]></Code>
+      <Name><![CDATA[Slovak]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>Pridať rámček s najnovšími videami na Youtube</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Poskytovatelia správ:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>Najnovšie video správy</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+<Language>
+      <Code><![CDATA[TR]]></Code>
+      <Name><![CDATA[Turkish]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key> 
+          <Value>En yeni Youtube videolarını içeren bir kutu ekle</Value>
+        </Localization>
+      <Localization>
+          <Key>alJazeeraEnglish</Key>
+          <Value>Al-Jazeera English</Value>
+        </Localization>
+      <Localization>
+          <Key>bloomberg</Key>
+          <Value>Bloomberg</Value>
+        </Localization>
+      <Localization>
+          <Key>cbsNewsOnline</Key>
+          <Value>CBS News Online</Value>
+        </Localization>
+      <Localization>
+          <Key>cSpan</Key>
+          <Value>C-SPAN</Value>
+        </Localization>
+      <Localization>
+          <Key>euronews</Key>
+          <Value>Euronews</Value>
+        </Localization>
+      <Localization>
+          <Key>france24English</Key>
+          <Value>France24 English</Value>
+        </Localization>
+      <Localization>
+          <Key>itnNews</Key>
+          <Value>ITN News</Value>
+        </Localization>
+      <Localization>
+          <Key>newsProviders</Key>
+          <Value>Haber Sağlayıcıları:</Value>
+        </Localization>
+      <Localization>
+          <Key>russiaToday</Key>
+          <Value>Russia Today</Value>
+        </Localization>
+      <Localization>
+          <Key>theAssociatedPress</Key>
+          <Value>The Associated Press</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkPost</Key>
+          <Value>The New York Post</Value>
+        </Localization>
+      <Localization>
+          <Key>theNewYorkTimes</Key>
+          <Value>The New York Times</Value>
+        </Localization>
+      <Localization>
+          <Key>theWashingtonPost</Key>
+          <Value>The Washington Post</Value>
+        </Localization>
+      <Localization>
+          <Key>topNewsVideos</Key>
+          <Value>En Popüler Haber Videoları</Value>
+        </Localization>
+   </Localizations>
+    </Language>
+  </Languages>
+</WebsiteX5LanguagesLibrary>

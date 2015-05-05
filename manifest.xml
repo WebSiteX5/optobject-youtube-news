@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<App uuid="1ef88d02-2d52-48b2-8b7b-165dd0b3b17">
+   <Name>Youtube News</Name>
+   <Author>Incomedia</Author>
+   <Version>4</Version>
+   <Category>Google</Category>
+   <Description l10n-id="description">Add a box with the latest Youtube videos.</Description>
+   <ShowPreview>True</ShowPreview>
+   <Parameters>
+      <Tab>
+         <Fields>
+            <Field id="newsProviders" type="dropdown">
+               <Options>
+                  <Option l10n-id="cbsNewsOnline" value="CBSNewsOnline">CBS News Online</Option>
+                  <Option l10n-id="alJazeeraEnglish" value="AlJazeeraEnglish">Al-Jazeera English</Option>
+                  <Option l10n-id="theAssociatedPress" value="AssociatedPress">The Associated Press</Option>
+                  <Option l10n-id="bloomberg" value="Bloomberg">Bloomberg</Option>
+                  <Option l10n-id="cSpan" value="CSPAN">C-SPAN</Option>
+                  <Option l10n-id="euronews" value="Euronews">Euronews</Option>
+                  <Option l10n-id="france24English" value="France24english">France24 English</Option>
+                  <Option l10n-id="itnNews" value="ITNnews">ITN News</Option>
+                  <Option l10n-id="theNewYorkPost" value="NYPost">The New York Post</Option>
+                  <Option l10n-id="theNewYorkTimes" value="thenewyorktimes">The New York Times</Option>
+                  <Option l10n-id="russiaToday" value="RussiaToday">Russia Today</Option>
+                  <Option l10n-id="theWashingtonPost" value="WashingtonPost">The Washington Post</Option>
+               </Options>
+               <DefaultValue>CBSNewsOnline</DefaultValue>
+               <Label l10n-id="newsProviders">News Provider</Label>
+               <UpdatesPreview>true</UpdatesPreview>
+            </Field>
+         </Fields>
+         <ShowPreview>True</ShowPreview>
+      </Tab>
+   </Parameters>
+   <Output><![CDATA[<iframe id="youtube_news_element_preview" frameborder="0" marginwidth="0" marginheight="0" border="0" style="border:0;margin:0;width:300px;height:250px;" scrolling="no" allowtransparency="true" src="//www.google.com/uds/modules/elements/videonews/iframe.html?channel=<?wsx5 document.write(parameters.newsProviders.value) ?>"></iframe>]]></Output>
+</App>
